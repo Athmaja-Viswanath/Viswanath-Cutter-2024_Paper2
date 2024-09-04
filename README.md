@@ -1,4 +1,4 @@
-# Gene regulatory divergence underlies tissue-specific and sex-specific misexpression in hybrids of _C. remanei _and _C. latens_ nematodes
+# Gene regulatory divergence underlies tissue-specific and sex-specific misexpression in hybrids of _C. remanei_ and _C. latens_ nematodes
 
 ## Author
 **Athmaja Viswanath**  
